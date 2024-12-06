@@ -1,0 +1,4 @@
+Midas/weights/*
+venv/*
+.vscode
+__pycache__
